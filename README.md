@@ -3,3 +3,23 @@
 <a href="https://twitter.com/_marufura_"><img src="https://img.shields.io/twitter/follow/_marufura_?label=Twitter"></img></a>
 
 <a href="https://www.linkedin.com/in/悠宇-高井-3b114b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+
+
+<div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=marufura&count_private=true&show_icons=true" />
+    </a>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact" />
+    </a>
+</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai)
+
+<div style="text-align: center;">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai)
+</div>
