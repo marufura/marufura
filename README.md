@@ -5,15 +5,21 @@
 <a href="https://www.linkedin.com/in/悠宇-高井-3b114b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 
-<div style="text-align: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=marufura&count_private=true&show_icons=true" />
-    </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=marufura&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact&theme=dracula" />
+</a>
 
 <div style="text-align: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=marufura&count_private=true&show_icons=true&theme=dracula" />
+    </a>
+
+<div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact&theme=dracula" />
     </a>
 </div>
 
