@@ -26,6 +26,14 @@
 </div>
 
 ---
+## Languages
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact&theme=dracula" />
+    </a>
+</div>
+
+---
 ## Contributions
 <div style="text-align: center;">
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details">
