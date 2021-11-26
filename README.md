@@ -29,7 +29,7 @@
 ## Contributions
 <div align="center">
 <a href="https://github-profile-summary-cards.vercel.app">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=dracula" />
 </a>
 </div>
 
