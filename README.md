@@ -23,9 +23,10 @@
     </a>
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai) -->
 
 <div style="text-align: center;">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai)
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai" />
+</a>
 </div>
