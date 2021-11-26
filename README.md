@@ -33,14 +33,6 @@
 </a>
 </div>
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai) -->
-
-<!-- <div style="text-align: center;">
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=monokai" />
-</a>
-</div> -->
-
 ---
 <a href="https://twitter.com/_marufura_"><img src="https://img.shields.io/twitter/follow/_marufura_?label=Twitter"></img></a>
 
