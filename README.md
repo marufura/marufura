@@ -32,8 +32,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=dracula" />
 </a>
 </div>
-
----
-<a href="https://twitter.com/_marufura_"><img src="https://img.shields.io/twitter/follow/_marufura_?label=Twitter"></img></a>
-
-<a href="https://www.linkedin.com/in/悠宇-高井-3b114b227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
