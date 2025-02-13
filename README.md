@@ -13,26 +13,10 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact&theme=dracula" />
 </a> -->
 
-# Data
-## Statistics
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=marufura&count_private=true&show_icons=true&theme=dracula" />
-    </a>
-</div>
-
 ---
 ## Languages
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufura&layout=compact&theme=dracula" />
     </a>
-</div>
-
----
-## Contributions
-<div align="center">
-<a href="https://github-profile-summary-cards.vercel.app">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufura&theme=dracula" />
-</a>
 </div>
